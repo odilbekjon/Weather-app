@@ -1,7 +1,23 @@
-# Vue 3 + Vite
+# 🌤️ Weather Website — Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Ushbu loyiha Vue 3 va Vite yordamida yaratilgan oddiy va interaktiv ob-havo veb-sayti hisoblanadi. Foydalanuvchilar shahar nomini kiritib, hozirgi ob-havo ma’lumotlarini olishlari mumkin.
 
-## Recommended IDE Setup
+---
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## ⚙️ Texnologiyalar
+
+- **Vue 3** — zamonaviy frontend framework
+- **Vite** — tez va samarali bundler va dev server
+- **Composition API** va **`<script setup>`** — Vue 3 komponentlarini yozish uchun qulay sintaksis
+- **Axios / Fetch API** — ob-havo ma’lumotlarini tashqi API-dan olish uchun
+- **CSS / Tailwind CSS** — dizayn va stil berish
+
+---
+
+## 🚀 Loyihani ishga tushirish
+
+### 1. Repozitoriyani klonlash
+
+```bash
+git clone https://github.com/username/vue-weather-app.git
+cd vue-weather-app
